@@ -778,6 +778,19 @@ section {
     }
 }
 @media (max-width: 500px) {
+    .footer {
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+    }
+    .footer-container {
+        padding: 0 !important;
+    }
+    .footer-logo-container {
+        margin-bottom: 3rem;
+    }
+    footer .footer-header {
+        margin-bottom: 10px !important;
+    }
     footer h4 {
         font-size: 20px !important;
     }
